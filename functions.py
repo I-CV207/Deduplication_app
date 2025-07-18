@@ -1,7 +1,5 @@
 import warnings
 import pandas as pd
-from fuzzywuzzy import fuzz
-from fuzzywuzzy import process
 from sqlalchemy import create_engine, Integer, Text, Float
 import itertools
 from rapidfuzz import process, utils, fuzz

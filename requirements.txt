@@ -12,5 +12,3 @@ prophet
 XlsxWriter
 rapidfuzz
 numpy 
-fuzzywuzzy
-itertools
