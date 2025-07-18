@@ -1,0 +1,14 @@
+streamlit
+pandas
+sqlalchemy
+matplotlib
+seaborn
+joblib
+gdown
+scikit-learn
+openpyxl
+yfinance
+prophet
+XlsxWriter
+rapidfuzz
+numpy 
